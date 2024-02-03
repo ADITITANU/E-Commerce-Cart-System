@@ -53,7 +53,7 @@ switch($_GET["action"]) {
 ?>
 <HTML>
 <HEAD>
-<TITLE>Simple PHP Shopping Cart</TITLE>
+<TITLE>Simple Shopping Cart</TITLE>
 <link href="style.css" type="text/css" rel="stylesheet" />
 </HEAD>
 <BODY>
